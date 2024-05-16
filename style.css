@@ -1,0 +1,30 @@
+body {    
+  border: solid 3px;
+  border-color: red;
+  border-radius: 10px;          
+  color: white;   
+  font-family: cursive;
+  background-color: black;
+  margin: 15px;
+  padding: 20px;
+}
+
+h4 {
+  width: 50%;
+  margin-left: 150px;
+  padding: 5px;
+}
+
+p { 
+  padding: 5px;
+}
+
+.red {
+  color:red;
+  font-weight:200;
+}
+
+.tan{ 
+color:tan;
+}
+
